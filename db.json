@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "7676219189",
+      "password": "123456",
+      "role": "worker",
+      "secColor": "blue",
+      "secFood": "pizza",
+      "name": "BN",
+      "speciality": "Harvesting",
+      "place": "Uttara Kannada",
+      "contact": "7676219189",
+      "cost": "600",
+      "id": "1779211740545"
+    },
+    {
+      "email": "9108669117",
+      "password": "123456",
+      "role": "landowner",
+      "secColor": "blue",
+      "secFood": "pizza",
+      "name": "9108669117",
+      "id": "1779212144157"
+    }
+  ],
+  "hireRequests": []
+}
